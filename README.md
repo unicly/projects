@@ -1,2 +1,2 @@
-# projects
-Repository for small projects and tests
+# Projects
+A repository for small projects and tests.
