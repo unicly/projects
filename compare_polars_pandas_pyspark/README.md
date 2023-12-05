@@ -1,4 +1,4 @@
-# Quick test between Pandas, Polars and PySpark
+# Quick test comparing Pandas, Polars and PySpark
 
 This is a quick test comparing how the libraries Pandas, Polars, and PySpark handle very large files.
 
